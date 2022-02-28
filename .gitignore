@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.exe
+*.obj
+*.pdf
+**/html/
+*.txt
+*.ilk
+*.pdb
